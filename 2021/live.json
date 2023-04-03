@@ -1,0 +1,24 @@
+{
+    "session": "welcome",
+    "stream": "stream-1-1",
+    "sessions": [
+        "welcome",
+        "openning1",
+        "eeuu",
+        "session1",
+        "session2",
+        "openning2",
+        "europe",
+        "session3",
+        "session4",
+        "session5",
+        "covid",
+        "session6",
+        "close"
+    ],
+    "streamings": [
+        "test",
+        "stream-1-1",
+        "stream-2-1"
+    ]
+}
